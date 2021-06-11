@@ -1,0 +1,11 @@
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\obj\Debug\netcoreapp3.1\Stuart.csprojAssemblyReference.cache
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\obj\Debug\netcoreapp3.1\Stuart.AssemblyInfoInputs.cache
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\obj\Debug\netcoreapp3.1\Stuart.AssemblyInfo.cs
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\bin\Debug\netcoreapp3.1\Stuart.exe
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\bin\Debug\netcoreapp3.1\Stuart.deps.json
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\bin\Debug\netcoreapp3.1\Stuart.runtimeconfig.json
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\bin\Debug\netcoreapp3.1\Stuart.runtimeconfig.dev.json
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\bin\Debug\netcoreapp3.1\Stuart.dll
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\bin\Debug\netcoreapp3.1\Stuart.pdb
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\obj\Debug\netcoreapp3.1\Stuart.dll
+\\Y-STORAGE05\Y-W-STU-03-H\755308\Work\VS projects\Stuart\Stuart\obj\Debug\netcoreapp3.1\Stuart.pdb
